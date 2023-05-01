@@ -25,7 +25,7 @@ public:
             else
             {
                 temp[k++] = arr[j++];
-                <b>count += (mid - i + 1);<b>
+                count += (mid - i + 1);
             }
         }
         while (i <= mid)
