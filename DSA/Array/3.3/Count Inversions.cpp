@@ -25,6 +25,9 @@ public:
             else
             {
                 temp[k++] = arr[j++];
+                
+                
+                //LOOK HERE you Dumb ASS
                 count += (mid - i + 1);
             }
         }
