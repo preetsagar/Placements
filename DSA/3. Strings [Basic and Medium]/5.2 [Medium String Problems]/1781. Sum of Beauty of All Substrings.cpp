@@ -1,4 +1,4 @@
-// Link - https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
+// Link -
 
 #include <bits/stdc++.h>
 using namespace std;
